@@ -1,0 +1,27 @@
+header
+{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 25px;
+}
+
+body
+{
+    margin: 0px;
+}
+
+footer
+{
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main
+{
+    padding: 0px 50px;
+}
